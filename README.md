@@ -4,12 +4,15 @@
 
 - 😄 Author of [FastTunnel](https://github.com/FastTunnel/FastTunnel).
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=springhgui&show_icons=true)
-<!-- 
-<a href="https://github.com/FastTunnel/FastTunnel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FastTunnel&repo=FastTunnel&theme=material-palenight" />
-</a> -->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=springhgui)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=springhgui&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex;border: 1px solid #e6e6e6;width: 100%;">
+  <div style="flex: 1;width: 50%;">
+    <div><img src="https://github-readme-stats.vercel.app/api?username=springhgui&show_icons=true&hide_border=true&bg_color=#6660" />
+    </div>
+    <div><img src="https://github-readme-stats.vercel.app/api/wakatime?username=springhgui&hide_border=true" /></div>
+  </div>
+  <div style="flex: 1;width: 50%;">
+    <div><img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=springhgui&langs_count=8&hide_border=true" />
+    </div>
+  </div>
+</div>
