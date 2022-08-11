@@ -1,5 +1,8 @@
 ### Hi, I am Gui.H 👋
 
+[![](https://img.shields.io/badge/npm-Gui.H-green)](https://www.npmjs.com/~gui.h)
+[![](https://img.shields.io/badge/nuget-Gui.H-green)](https://www.nuget.org/profiles/Gui.H)
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 - Author of [FastTunnel](https://github.com/FastTunnel/FastTunnel).
