@@ -7,6 +7,8 @@
 
 - Author of [FastTunnel](https://github.com/FastTunnel/FastTunnel).
 
+- [😘去赞助作者](https://afdian.net/a/gui_h/plan)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=springhgui&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=springhgui&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=springhgui&langs_count=8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   -->
